@@ -1,0 +1,31 @@
+body {
+    font-family: Times New Roman;
+    background-color: #808080;
+    margin: 0;
+    padding: 200px;
+}
+
+label {
+    color: white;
+    height: 60px;
+    width: 250px;
+    background-color: #808080;
+    position: center;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    font-size: 30px;
+}
+
+button {
+    background-color: #0026ff;
+    position: sticky;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    font-size: 20px;
+}
